@@ -1,0 +1,15 @@
+    1  ls
+    2  cd gitdemo
+    3  ls
+    4  ls
+    5  ls
+    6  git status
+    7  git config --global --add safe.directory C:/Users/2387815/gitdemo
+    8  git status
+    9  git add .
+   10  git status
+   11  git commit
+   12  git status
+   13  git log
+   14  history
+   15  history >> Gitlog.txt
